@@ -22,7 +22,7 @@ function url(){
    
 }
 function url2(){
-    window.open("https://wswebs.github.io/Radio_alarab/radio2")
+    window.open("https://wswebs.github.io/w.s.r/radio2")
 }
 function url3(){
     window.open("https://wswebs.github.io/W.S.A/W.A.V.html")
